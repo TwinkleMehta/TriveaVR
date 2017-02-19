@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MarsScene.unity
+  isLoaded: 1
+  isActive: 1
